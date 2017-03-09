@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!--训练样本路径配置-->
+<paths>
+    <posList posNum="1">
+        <path>D:\pos</path>
+    </posList>
+    <negList negNum="1">
+        <path>D:\neg</path>
+    </negList>
+    <bakList bakNum="2">
+        <path>D:\bak1</path>
+	<path>D:\bak2</path>
+    </bakList>
+</paths>

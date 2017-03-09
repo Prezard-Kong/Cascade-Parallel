@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!--Cascade Configure-->
+<config>
+    <maxlayers>30</maxlayers>
+    <neg_live>10</neg_live>
+    <max_weaker>256</max_weaker>
+    <img_width>32</img_width>
+    <img_height>32</img_height>
+    <stepX>8</stepX>
+    <stepY>8</stepY>
+    <startlayer>1</startlayer>
+    <type>logistic</type>
+    <layer_configs>
+        <_ layer="1">
+            <hit_rate>0.994999998</hit_rate>
+            <false_rate>0.80000002</false_rate>
+        </_>
+        <_ layer="2">
+            <hit_rate>0.994999998</hit_rate>
+            <false_rate>0.80000002</false_rate>
+        </_>
+        <_ layer="3">
+            <hit_rate>0.994999998</hit_rate>
+            <false_rate>0.80000002</false_rate>
+        </_>
+        <_ layer="4">
+            <hit_rate>0.994999998</hit_rate>
+            <false_rate>0.80000002</false_rate>
+        </_>
+        <_ layer="5">
+            <hit_rate>0.994999998</hit_rate>
+            <false_rate>0.80000002</false_rate>
+        </_>
+        <_ layer="6">
+            <hit_rate>0.994999998</hit_rate>
+            <false_rate>0.80000002</false_rate>
+        </_>
+        <_ layer="7">
+            <hit_rate>0.994999998</hit_rate>
+            <false_rate>0.80000002</false_rate>
+        </_>
+        <_ layer="8">
+            <hit_rate>0.994999998</hit_rate>
+            <false_rate>0.80000002</false_rate>
+        </_>
+        <_ layer="9">
+            <hit_rate>0.994999998</hit_rate>
+            <false_rate>0.80000002</false_rate>
+        </_>
+        <_ layer="10">
+            <hit_rate>0.994999998</hit_rate>
+            <false_rate>0.80000002</false_rate>
+        </_>
+        <_ layer="11">
+            <hit_rate>0.994999998</hit_rate>
+            <false_rate>0.80000002</false_rate>
+        </_>
+        <_ layer="12">
+            <hit_rate>0.994999998</hit_rate>
+            <false_rate>0.80000002</false_rate>
+        </_>
+        <_ layer="13">
+            <hit_rate>0.994999998</hit_rate>
+            <false_rate>0.80000002</false_rate>
+        </_>
+        <_ layer="14">
+            <hit_rate>0.994999998</hit_rate>
+            <false_rate>0.80000002</false_rate>
+        </_>
+        <_ layer="15">
+            <hit_rate>0.994999998</hit_rate>
+            <false_rate>0.80000002</false_rate>
+        </_>
+        <_ layer="16">
+            <hit_rate>0.994999998</hit_rate>
+            <false_rate>0.80000002</false_rate>
+        </_>
+        <_ layer="17">
+            <hit_rate>0.994999998</hit_rate>
+            <false_rate>0.80000002</false_rate>
+        </_>
+        <_ layer="18">
+            <hit_rate>0.994999998</hit_rate>
+            <false_rate>0.80000002</false_rate>
+        </_>
+        <_ layer="19">
+            <hit_rate>0.994999998</hit_rate>
+            <false_rate>0.80000002</false_rate>
+        </_>
+        <_ layer="20">
+            <hit_rate>0.994999998</hit_rate>
+            <false_rate>0.80000002</false_rate>
+        </_>
+	<_ layer="21">
+            <hit_rate>0.994999998</hit_rate>
+            <false_rate>0.80000002</false_rate>
+        </_>
+        <_ layer="22">
+            <hit_rate>0.994999998</hit_rate>
+            <false_rate>0.80000002</false_rate>
+        </_>
+        <_ layer="23">
+            <hit_rate>0.994999998</hit_rate>
+            <false_rate>0.80000002</false_rate>
+        </_>
+        <_ layer="24">
+            <hit_rate>0.994999998</hit_rate>
+            <false_rate>0.80000002</false_rate>
+        </_>
+        <_ layer="25">
+            <hit_rate>0.994999998</hit_rate>
+            <false_rate>0.80000002</false_rate>
+        </_>
+        <_ layer="26">
+            <hit_rate>0.994999998</hit_rate>
+            <false_rate>0.80000002</false_rate>
+        </_>
+        <_ layer="27">
+            <hit_rate>0.994999998</hit_rate>
+            <false_rate>0.80000002</false_rate>
+        </_>
+        <_ layer="28">
+            <hit_rate>0.994999998</hit_rate>
+            <false_rate>0.80000002</false_rate>
+        </_>
+        <_ layer="29">
+            <hit_rate>0.994999998</hit_rate>
+            <false_rate>0.80000002</false_rate>
+        </_>
+        <_ layer="30">
+            <hit_rate>0.994999998</hit_rate>
+            <false_rate>0.80000002</false_rate>
+        </_>
+    </layer_configs>
+</config>

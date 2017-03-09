@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!--特征提取函数配置-->
+<functions>
+    <funcNum>1</funcNum>
+    <featNum>256</featNum>
+    <func>
+        <No.>1</No.>
+        <path>D:\test.dll</path>
+        <featNum>256</featNum>
+        <config>
+            <!--请在此写入特征提取函数参数-->
+        </config>
+    </func>
+</functions>

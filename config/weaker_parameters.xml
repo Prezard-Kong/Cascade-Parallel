@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!--Cascade Configure-->
+<config>
+    <threshold>
+        <need_sort>1</need_sort>
+	<need_normalize>0</need_normalize>
+    </threshold>
+    <logistic>
+	<need_sort>0</need_sort>
+	<need_normalize>1</need_normalize>
+	<learning_rate>0.01</learning_rate>
+	<weight_decay>0</weight_decay>
+	<batch_size>64</batch_size>
+	<max_iter>1000</max_iter>
+    </logistic>
+</config>
